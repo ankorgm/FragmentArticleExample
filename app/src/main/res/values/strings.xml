@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">FragmentArticleExample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="question_article">question_article</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="yes_message">LIKE THIS</string>
+    <string name="no_message">THANKS FOR ANSWER</string>
+    <string name="title1">Cry of a Shadow</string>
+    <string name="article1">"Download for Windows  Click here to download the latest (2.39.0) 64-bit version of Git for Windows. This is the most recent maintained build. It was released 6 days ago, on 2022-12-21. Other Git for Windows downloads Standalone Installer  32-bit Git for Windows Setup.  64-bit Git for Windows Setup. Portable (\"thumbdrive edition\")  32-bit Git for Windows Portable.  64-bit Git for Windows Portable. Using winget tool  Install winget tool if you don't already have it, then type this command in command prompt or Powershell. winget install --id Git.Git -e --source winget  The current source code release is version 2.39.0. If you want the newer version, you can build it from the "</string>
+
 </resources>
